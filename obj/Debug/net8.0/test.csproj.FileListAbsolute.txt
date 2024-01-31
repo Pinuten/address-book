@@ -1,0 +1,14 @@
+/Users/salt-dev/salt/addressbook/test/bin/Debug/net8.0/test
+/Users/salt-dev/salt/addressbook/test/bin/Debug/net8.0/test.deps.json
+/Users/salt-dev/salt/addressbook/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/salt-dev/salt/addressbook/test/bin/Debug/net8.0/test.dll
+/Users/salt-dev/salt/addressbook/test/bin/Debug/net8.0/test.pdb
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.dll
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/refint/test.dll
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.pdb
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/salt-dev/salt/addressbook/test/obj/Debug/net8.0/ref/test.dll
